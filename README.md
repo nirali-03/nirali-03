@@ -5,6 +5,8 @@
 
 <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=nirali-03&show_icons=true" width="400px" height="180px" >
 
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=nirali-03&theme=vision-friendly-dark&hide_border=true" width="400px" height="180px">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
