@@ -2,6 +2,9 @@
 
 **nirali-03/nirali-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+<img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=nirali-03&show_icons=true" width="400px" height="180px" >
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
